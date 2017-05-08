@@ -32,3 +32,6 @@ h3{
 .barContainer{
   margin-left: 26em;
 }
+.numericLink, .codexLink{
+  color: blue;
+}
